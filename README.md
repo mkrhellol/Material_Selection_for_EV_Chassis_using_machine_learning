@@ -39,3 +39,7 @@ The standout performers were Decision Tree and Random Forest Classifier, showcas
 Let’s connect if you’re passionate about machine learning, EV innovation, or material science!
 
 #MachineLearning #EVDesign #MaterialSelection #DataScience #Python #Research
+
+## Authors
+
+- [@mkrhellol](https://www.github.com/octokatherine)
